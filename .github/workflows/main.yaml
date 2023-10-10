@@ -1,7 +1,7 @@
 name: Test Node.js App
 
 on:
-  pull-request:
+  pull_request:
     branches:
       - master
 
